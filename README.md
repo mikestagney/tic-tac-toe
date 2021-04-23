@@ -1,4 +1,4 @@
-# Tic-Tac-Toe.  
+# Tic-Tac-Toe 
 Command line Tic Tac Toe game for 2 human players.
 
 ## Things learned
