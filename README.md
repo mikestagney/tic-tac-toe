@@ -1,5 +1,4 @@
-# Tic-Tac-Toe.  Written in **Java.**
-
+# Tic-Tac-Toe.  
 Command line Tic Tac Toe game for 2 human players.
 
 ## Things learned
