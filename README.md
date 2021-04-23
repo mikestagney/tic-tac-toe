@@ -19,7 +19,5 @@ Select cell by keying two numbers. The top-left cell will have the coordinates (
 | (1, 2) | (2, 2) | (3, 2) |
 | (1, 1) | (2, 1) | (3, 1) |
 
-### Path to the source files:
 
-https://github.com/mikestagney/tic-tac-toe/tree/main/Tic-Tac-Toe/task/src/tictactoe
 
